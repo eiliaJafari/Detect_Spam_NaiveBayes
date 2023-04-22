@@ -1,0 +1,2 @@
+# Detect_Spam_NaiveBayes
+A MODEL for DETECTING SPAM E-MAILS USING NAIVE BAYES
